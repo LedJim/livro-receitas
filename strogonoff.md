@@ -1,3 +1,0 @@
-/*Strogonoff*/
-#Strogonoff de Frango
-
